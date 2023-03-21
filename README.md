@@ -10,8 +10,9 @@ npm install
 ## DESPLEGAR
 npm run start
 
-![rick-y-morti](buscado-rick-y-morti.PNG)
+![rick-y-morti](rick-y-morti.PNG)
 
-VIDEO.
+![rick-y-morti2](rick-y-morti2.PNG)
 
-[VIDEO PRUEBA REACT JS](https://youtu.be/AsrOkTGs6QY)
+![rick-y-morti3](rick-y-morti3.PNG)
+
